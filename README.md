@@ -1,4 +1,7 @@
 # StopIt! Um Game em Arduino
+
+<p align="center"> <img src="http://i.imgur.com/SddjSq7.png" width="500"> </p>
+
 StopIt! é a reformulação, feita para a plataforma Arduino, de um dos games mais famosos da década de 80.
 
 <p align="center"><img src="https://github.com/antoanne/ArduinoGameStop/blob/master/Projeto.png" /></p>
